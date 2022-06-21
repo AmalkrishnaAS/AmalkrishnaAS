@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amalkrishna A S</h1>
 <h3 align="center">A Computer Science and Engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amalkrishnaas&label=Profile%20views&color=0e75b6&style=flat" alt="amalkrishnaas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmalkrishnaAS&label=Profile%20views&color=0e75b6&style=flat" alt="AmalkrishnaAS" /> </p>
 
 - 📫 How to reach me **amalkrishna_b200729cs@nitc.ac.in**
 
