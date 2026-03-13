@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Amal!
 
-[cite_start]I'm a **Full Stack Engineer** at **Oracle** [cite: 16] [cite_start]and an **NIT Calicut** alum[cite: 10, 11]. I'm a software engineer who loves building efficient systems and exploring agentic AI.
+I'm a **Full Stack Engineer** at **Oracle**and an **NIT Calicut** alum. I'm a software engineer who loves building efficient systems and exploring agentic AI.
 
 ---
 
