@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Amalkrishna A S</h1>
-<h3 align="center">Friendly neighbourhood programmer.</h3>
+## 👋 Hey, I'm Amal!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amalkrishnaas&label=Profile%20views&color=0e75b6&style=flat" alt="amalkrishnaas" /> </p>
+[cite_start]I'm a **Full Stack Engineer** at **Oracle** [cite: 16] [cite_start]and an **NIT Calicut** alum[cite: 10, 11]. I'm a software engineer who loves building efficient systems and exploring agentic AI.
 
-- 📫 How to reach me **amalkrishna_b200729cs@nitc.ac.in**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amalkrishna-as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amalkrishna-as" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amalkrishnaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amalkrishnaas" height="30" width="40" /></a>
-</p>
+### 🚀 What I’m Up To
+* 🏢 **Scalable Systems:** Full Stack Engineer at Oracle.
+* 🌐 **Full Stack:** Crafting digital experiences with **React**, **Next.js**, **Flask** , **express.js**.
+* 🤖 **Agentic AI:** Designing and building agents to make LLMs to do stuff with **Langgraph**
+* 🛠️ **Self-Hosting:** Managing a personal lab with privacy-focused and media-streaming tools.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<hr/>
+### 🎬 Beyond the Code
+* 📚 **Books:** Gets lost in books, but hey! the DNF pile is growing.
+* 🍿 **Movies & Shows:** Cinephile by choice.
 
-![Amalkrishna GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalkrishnaAS&count_private=true&show_icons=true&theme=radical)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalkrishnaAS&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+**[Portfolio](https://amalkrishna.vercel.app)** | **[LinkedIn](https://linkedin.com/in/amalkrishna-as)**
+
+---
+
+> "Probably debugging something right now." ⚡
