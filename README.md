@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Amal!
 
-I'm a **Full Stack Engineer** at **Oracle**and an **NIT Calicut** alum. I'm a software engineer who loves building efficient systems and exploring agentic AI.
+I'm a **Full Stack Engineer** at **Oracle** and an **NIT Calicut** alum. I'm a software engineer who loves building efficient systems and exploring agentic AI.
 
 ---
 
